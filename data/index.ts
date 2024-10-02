@@ -97,8 +97,8 @@ export const projects = [
   {
     id: 4,
     title: "Animated Apple Iphone 3D Website",
-    des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
-    img: "/p4.svg",
+    des: "Created a stunning modern UI website for KOgenie PVT LTD using HTML, CSS, and GSAP animations...",
+    img: "/p4.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
     link: "/ui.apple.com",
   },
@@ -117,38 +117,50 @@ export const testimonials = [
     name: "Ajeet Kumar",
     title: "Director of AajTakCrimeNews Jharkhand",
   },
-  {
-    quote:
-      "Collaborating with Avanish was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. If you're seeking to elevate your website and elevate your brand, Avanish is the ideal partner.",
-    name: "Ajeet Kumar",
-    title: "Director of AajTakCrimeNews Jharkhand",
-  },
-  {
-    quote:
-      "Collaborating with Avanish was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. If you're seeking to elevate your website and elevate your brand, Avanish is the ideal partner.",
-    name: "Ajeet Kumar",
-    title: "Director of AajTakCrimeNews Jharkhand",
-  },
-  {
-    quote:
-      "Collaborating with Avanish was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. If you're seeking to elevate your website and elevate your brand, Avanish is the ideal partner.",
-    name: "Ajeet Kumar",
-    title: "Director of AajTakCrimeNews Jharkhand",
-  },
+  // {
+  //   quote:
+  //     "Collaborating with Avanish was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. If you're seeking to elevate your website and elevate your brand, Avanish is the ideal partner.",
+  //   name: "Ajeet Kumar",
+  //   title: "Director of AajTakCrimeNews Jharkhand",
+  // },
+  // {
+  //   quote:
+  //     "Collaborating with Avanish was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. If you're seeking to elevate your website and elevate your brand, Avanish is the ideal partner.",
+  //   name: "Ajeet Kumar",
+  //   title: "Director of AajTakCrimeNews Jharkhand",
+  // },
+  // {
+  //   quote:
+  //     "Collaborating with Avanish was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. If you're seeking to elevate your website and elevate your brand, Avanish is the ideal partner.",
+  //   name: "Ajeet Kumar",
+  //   title: "Director of AajTakCrimeNews Jharkhand",
+  // },
 ];
 
 export const companies = [
+  // {
+  //   id: 1,
+  //   name: "cloudinary",
+  //   img: "/cloud.svg",
+  //   nameImg: "/cloudName.svg",
+  // },
+  // {
+  //   id: 2,
+  //   name: "appwrite",
+  //   img: "/app.svg",
+  //   nameImg: "/appName.svg",
+  // },
   {
     id: 1,
-    name: "appwrite",
-    img: "/app.svg",
-    nameImg: "/appName.svg",
-  },
-  {
-    id: 2,
     name: "HOSTINGER",
     img: "/host.svg",
     nameImg: "/hostName.svg",
+  },
+  {
+    id: 2,
+    name: "stream",
+    img: "/s.svg",
+    nameImg: "/streamName.svg",
   },
   {
     id: 3,
